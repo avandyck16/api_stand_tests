@@ -1,6 +1,4 @@
-﻿Para diseñar y redactar tu archivo README.md para este proyecto, el objetivo es proporcionar una descripción clara y completa del propósito, configuración, y uso de tu código. Te propongo la siguiente estructura:
-
-# 1. Título del Proyecto:
+﻿# 1. Título del Proyecto:
 ## Test de Creación de Usuarios API
 ### Axel Van Dyck, Grupo 14, Sprint 7 
 ### 2. Descripción
