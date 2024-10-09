@@ -67,5 +67,5 @@ Si quieres contribuir, sigue los siguientes pasos:
 - Crea una nueva rama para tu feature (git checkout -b nueva-feature).
 - Realiza un commit de tus cambios (git commit -m 'Añadir nueva feature').
 - Haz push a la rama (git push origin feature/nueva-feature).
-- Crea un Pull Request.
+- Crea un Pull Request
 
