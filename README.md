@@ -7,7 +7,7 @@
 
 Propósito: Este proyecto automatiza las pruebas de una API que permite crear nuevos usuarios. Incluye tanto pruebas positivas como negativas para validar el comportamiento de la API bajo diferentes condiciones.
 
-### **3. Requisitos Previos**
+### 3. Requisitos Previos
 
 Lenguaje: Python 3.x
 
