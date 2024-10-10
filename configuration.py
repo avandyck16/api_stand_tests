@@ -1,7 +1,7 @@
 ## Aquí almacenarás la URL base de Urban Grocers
 # y la ruta específica de la API para la documentación:
 
-#URL_SERVICE = "copia la URL generada sin el backslash al final"
+
 #DOC_PATH = "/docs/"
 
 URL_SERVICE = "https://cnt-505d064f-fd12-4b3b-bcfa-e53be834bfc8.containerhub.tripleten-services.com"
